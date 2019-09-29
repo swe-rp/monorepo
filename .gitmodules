@@ -1,0 +1,6 @@
+[submodule "android-app"]
+	path = android-app
+	url = https://github.com/swe-rp/android-app.git
+[submodule "server"]
+	path = server
+	url = https://github.com/swe-rp/server.git
